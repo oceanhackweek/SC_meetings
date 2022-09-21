@@ -7,3 +7,5 @@ The exact format is experimental at the moment: we will start with having each m
 ## Meeting notes
 
 Add an entry for notes from each meeting here.
+
+- [2022/09/07](meeting_notes/20220907.md)
