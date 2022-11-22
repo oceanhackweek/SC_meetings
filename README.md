@@ -13,3 +13,5 @@ Add an entry for notes from each meeting here.
 - [2022/09/21](meeting_notes/20220921.md)
 - [2022/09/28](meeting_notes/20220928.md)
 - [2022/10/12](meeting_notes/20221012.md)
+- [2022/10/26](meeting_notes/20221026.md)
+- [2022/11/09](meeting_notes/20221109.md)
