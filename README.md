@@ -8,7 +8,7 @@ The exact format is experimental at the moment: we will start with having each m
 
 Add an entry for notes from each meeting here.
 
-- [2022/11/09](meeting_notes/20221123.md)
+- [2022/11/23](meeting_notes/20221123.md)
 - [2022/11/09](meeting_notes/20221109.md)
 - [2022/10/26](meeting_notes/20221026.md)
 - [2022/10/12](meeting_notes/20221012.md)
